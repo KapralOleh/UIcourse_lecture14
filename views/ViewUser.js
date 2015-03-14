@@ -1,4 +1,3 @@
-
 var UserView = Backbone.View.extend({
 
     tagName: 'tr',

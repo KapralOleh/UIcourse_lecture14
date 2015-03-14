@@ -1,5 +1,3 @@
-
-//создаем прототип нашего объекта или модели
 var UserModel = Backbone.Model.extend({
     defaults: {
         name : "name",
